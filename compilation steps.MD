@@ -89,3 +89,4 @@ $ g++ driver.o -o driver // также тут можно добавить и д�
 
 $ ./driver
 // Hello, world!
+Источник: https://habr.com/ru/post/478124/
