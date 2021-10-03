@@ -417,3 +417,5 @@ int main()
 Результат выполнения программы:
 
 99 90 80 40 13 5
+
+Источник: https://ravesli.com/lyambda-vyrazheniya-anonimnye-funktsii-v-s/
