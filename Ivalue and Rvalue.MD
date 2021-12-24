@@ -1,4 +1,4 @@
-#lvalue and Rvalue
+# lvalue and Rvalue
 **lvalue** (locator value) представляет собой объект, который занимает идентифицируемое место в памяти (например, имеет адрес).
 int x;
 	x = 4;
