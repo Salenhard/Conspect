@@ -36,12 +36,15 @@ int main()
 }
 ```
 Следовательно, результат выполнения программы:
-
+***
 x: Anton
+***
 y: Max
+***
 x: Max
+***
 y: Anton
-
+***
 Источник: https://ravesli.com/urok-192-std-move/ 
  
 # Ссылки r-value
