@@ -84,7 +84,9 @@ int main()
 }
 ```
 Результат выполнения программы:
+***
 •	l-value reference to const
+***
 •	r-value reference
 
 Источник: https://ravesli.com/urok-190-ssylki-r-value/#toc-0 
